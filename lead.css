@@ -1,0 +1,771 @@
+.ram{
+   position: sticky;
+   top: 0;
+   background-color: #272727;
+   height: 12vh;
+   width: 100%;
+   word-spacing: 20px;
+
+}
+*{
+   scroll-behavior: smooth;
+}
+html{
+   overflow-x: hidden;
+
+}
+.ram ul li a{
+   text-decoration: none;
+   color: #c5a47e;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    color:#c5a47e;
+    background-color: #272727;
+    word-spacing: 30px;
+
+   }
+   .rock{
+      float: left;
+      padding-bottom: 1vh;
+
+   }
+ul li a:hover{
+   color: #ffffff;
+   text-decoration: underline;
+}
+ul{
+   float: right;
+   padding-top: 30px;
+   background-color: #272727;
+   text-decoration: none;
+   padding-right: 110px;
+
+   }
+
+img{
+      background-color: #272727;
+    padding: 0px;
+
+    }
+
+
+
+
+
+.ram1a{
+    padding-left: 40px;
+
+}
+/* 1st scetion */
+
+.hari{
+    width: 100%;
+    height: 70vh;
+    background-image: url(travel-slider-01.jpg );
+    background-size: cover;
+    padding-top: 20vh;
+
+
+
+}
+.king{
+
+    color: #ffffff;
+    font-size: 7vh;
+    padding-left: 40px;
+
+
+}
+.karan{
+    border: 4px solid #c5a47e;
+    width: 40%;
+     margin-left: 30vh;
+
+
+
+}
+
+/* ended */
+
+ /*2nd section */
+ .simma{
+    width: 100%;
+    display: flex;
+
+}
+.free{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color: #1f1f1f;
+    margin: 0%;
+   padding-left: 8vh;
+}
+.free1{
+    width: 50%;
+
+  padding-left: 13vh;
+   background-color: #1f1f1f;
+   background-size: cover;
+}
+  .ing{
+    color: #c5a47e;
+    font-size:6vh;
+    text-align: left;
+    padding-top: px;
+  }
+.ing1{
+    color: #707070;
+    font-size: larger;
+    text-align: left;
+    padding-top: 10px;
+}
+ .ing2{
+    color: #707070;
+    text-align: left;
+    padding-top: 10px;
+    font-size: medium;
+ }
+ .rin{
+    border-top-left-radius: 11vh;
+    border-top-right-radius: 11vh;
+    border-bottom-left-radius: 11vh;
+    border-bottom-right-radius: 11vh;
+    color:#c5a47e;
+    background-color:#1f1f1f ;
+    border-color: #c5a47e;
+    padding-left: 2vh;
+    text-decoration: none;
+ }
+ .rin b:hover{
+   color: #ffffff;
+   text-decoration: underline;
+ }
+ /* ended */
+ /* 3rd section */
+
+
+.surya{
+   background-color: #1f1f1f;
+   height: auto;
+
+  }
+
+ .simba{
+    width: 100%;
+    display: flex;
+
+
+}
+.simba1{
+    width: 50%;
+   background-color: #1f1f1f;
+
+}
+ .simba2{
+    width: 50%;
+    padding-left: 21vh;
+
+ }
+
+ .solo{
+    color: #c5a47e;
+    font-size:45px;
+    padding-left: 15vh;
+
+}
+
+
+.god{
+    color: #707070;
+    font-size: x-large;
+     margin-bottom: 18px;
+     padding-left: 15vh;
+}
+
+ .level{
+    width: 100%;
+    display: flex;
+     margin-left:6vh ;
+     margin-top: 25px;
+ }
+ .sung{
+    width: 50%;
+ }
+ .sung1{
+    width: 50%;
+ }
+ .level1{
+    width: 100%;
+    display: flex;
+    margin-left: 6vh;
+    margin-top: 25px;
+ }
+ .ring{
+    width: 50%;
+ }
+ .ring1{
+    width: 50%;
+ }
+
+.ic{
+   color:#c5a47e;
+}
+.polo{
+    color: #ababab;
+    font-size: 24px;
+   padding-left: 7vh;
+   margin-top: -23px;
+}
+.polo1{
+
+color: #707070;
+font-size: 18px;
+padding-left: 7vh;
+}
+
+.polo2{ color: #ababab;
+    font-size: 24px;
+    padding-left: 7vh;
+    margin-top: -23px;
+
+}
+.polo3{
+    color: #707070;
+padding-left: 7vh;
+font-size: 20px;
+}
+.roll{
+    color: #ababab;
+     font-size: 24px;
+    padding-left: 7vh;
+    margin-top: -25px;
+   }
+ .roll1{
+  color: #707070;
+padding-left: 7vh;
+font-size: 20px;
+ }
+ .roll2{
+     color: #ababab;
+    font-size: 24px;
+    padding-left: 7vh;
+    margin-top: -25px;
+ }
+ .roll3{
+    color: #707070;
+padding-left: 7vh;
+font-size: 20px;
+ }
+
+ /* ended */
+
+  /* 4th section */
+  .luffy{
+    width: 100%;
+    display: flex;
+    margin-top: 20vh;
+    margin-left: 19vh;
+    align-items: center;
+ }
+
+
+
+ .zoro{
+
+    margin-left: 7vh;
+    background-color: #707070;
+ }
+ .nami{
+    margin-left: 7vh;
+     background-color:  #707070;
+ }
+ .madara{
+    margin-left: 7vh;
+     background-color:   #707070;
+ }
+ .naruto{
+    margin-left: 7vh;
+     background-color:   #707070;
+ }
+ .amul{
+    color: #c5a47e;
+    font-size: 5vh;
+    text-align: center;
+    padding-top: 14vh;
+ }
+ .land{
+    color: #707070;
+    padding-left: 11vh;
+    font-size: 20px ;
+    text-align: center;
+ }
+ .ambi{
+    background-color: #1f1f1f;
+    width: 100%;
+    height: 130vh;
+    margin-top: -10vh;
+
+
+
+
+ }
+.hinata{
+    color: #ffffff;
+    text-align: center;
+    font-size: xx-large;
+
+}
+.temari{
+     border-top-left-radius: 11vh;
+    border-top-right-radius: 11vh;
+    border-bottom-left-radius: 11vh;
+    border-bottom-right-radius: 11vh;
+    color:#ffffff;
+    background-color:#c5a47e ;
+    border-color: #c5a47e;
+    font-size: 24px;
+    padding-left: 2vh;
+
+
+}
+
+/* ended */
+
+
+  /* 5th section*/
+
+  .chan{
+   color: #c5a47e;
+    font-size: 5vh;
+    text-align: center;
+    padding-top: 14vh;
+ }
+ .kazama{
+    color: #707070;
+    padding-left: 11vh;
+    font-size: 20px ;
+    text-align: center;
+    margin-top: 5vh;
+ }
+ .masav{
+    width: 99%;
+    display: flex;
+    margin-left: 5vh;
+    margin-top: 5vh;
+
+ }
+ .neni{
+    width: 33%;
+
+ }
+ .boo{
+    width: 33%;
+
+ }
+ .nohara{
+    width: 33%;
+
+ }
+ .jatka{
+    width: 99%;
+    margin-left: 5vh;
+    display: flex;
+    margin-top: 3vh;
+ }
+ .motu{
+    width: 33%;
+
+
+ }
+ .patlu{
+    width: 33%;
+
+ }
+ .john{
+    width: 33%;
+
+ }
+ .shin{
+    background-color: #272727;
+    margin-top: -10vh;
+
+ }
+ .kaiju{
+   background-color: #707070;
+ }
+ .naza{
+   font-size: medium;
+   color: #ffffff;
+    text-align: center;
+ }
+ .dong{
+   font-size: small;
+   color: #ababab;
+   text-align: center;
+ }
+ .raju{
+   width: 100%;
+   display: flex;
+   margin-left: 3cm;
+   margin-top: 3vh;
+   color: #707070;
+
+ }
+ .chota{
+
+   width: 25%;
+ }
+
+.chuki{
+   width: 25%;
+   padding-right: 1cm;
+}
+
+.kaliya{
+width: 25%;
+padding-left: 6cm;
+}
+
+.mathi{
+   width: 25%;
+}
+.bheem{
+   font-size: 5vh;
+   color: #c5a47e;
+}
+.jet{
+   font-size:medium;
+   color: #707070;
+   padding-bottom: 2vh;
+   padding-right: 30px;
+   width: 100%;
+
+}
+.sambavam{
+   width: 40px;
+   color: #c5a47e;
+   margin-left:40px;
+   margin-top: 20px;
+   background-color: #c5a47e;
+}
+.sirapu{
+   width: 40px;
+   color: #c5a47e;
+   margin-right: 40px;
+      margin-top: 20px;
+}
+.shin img:hover{
+   transform: scale(1.1);
+}
+.sambavam{
+   
+}
+/*ended*/
+/* 6th section */
+.thara{
+    width: 100%;
+    height: 85vh;
+    background-image: url("run1.jpg");
+    background-size: cover;
+    background-color: #272727;
+
+}
+.keechek{
+   font-size: 7vh;
+   color: #c5a47e;
+
+}
+.dolu{
+   font-size: larger;
+   color: #ababab;
+}
+.manu{
+   font-size: medium;
+   color: #ababab;
+   padding-top: 10px;
+}
+.krish{
+   font-size: larger;
+   color: #ffffff;
+   background-color: #c5a47e;
+   margin-top: 1cm;
+   border-top-left-radius: 5vh;
+    border-top-right-radius: 5vh;
+    border-bottom-left-radius: 5vh;
+    border-bottom-right-radius: 5vh;
+   text-decoration: none;
+
+}
+.krish a {
+   color: #1f1f1f;
+}
+.krish a:hover {
+   color: #ffffff;
+text-decoration: underline;
+}
+.kirmada{
+   background-color: #1f1f1f;
+   padding-left: 3cm;
+   width: 30%;
+   height: 80vh;
+   padding-top: 2cm;
+   margin-left: 3cm;
+   padding-right: 20px;
+}
+/*ended*/
+
+/* 7th section */
+.maya{
+   color: #707070;
+   background-color: #272727;
+   height: 100vh;
+   margin-top: -10vh;
+}
+.ben{
+   font-size: 5vh;
+   color: #c5a47e;
+   text-align: center;
+   padding-top: 20vh;
+}
+.ten{
+   font-size: medium;
+   color: #707070;
+   text-align: center;
+   padding-top: 5vh;
+}
+.gwan{
+   width: 100%;
+   display: flex;
+   padding-top: 2cm;
+   padding-left: 3vh;
+}
+.teni{
+   width: 25%;
+}
+.kevin{
+   width: 25%;
+}
+.cham{
+   width: 25%;
+}
+.wilgas{
+   width: 25%;
+}
+
+/*ended */
+
+/*8th section */
+
+.white{
+    width: 100%;
+    height: 90vh;
+    background-image: url(hero-bg4.jpg) ;
+    background-size: cover;
+    background-color: #272727;
+    margin: 0%;
+    padding-left: 50px;
+    padding-bottom: 50px;
+   }
+   .purple{
+   padding-left: 10vh;
+   padding-top: 30vh;
+   }
+.blue{
+   font-size: 6vh;
+   text-align: left ;
+}
+.vilot{
+   font-size: x-large;
+   text-align: left;
+}
+
+.sky{
+     border-top-left-radius: 5vh;
+    border-top-right-radius: 5vh;
+    border-bottom-left-radius: 5vh;
+    border-bottom-right-radius: 5vh;
+    background-color: #272727;
+    font-size: 4vh;
+    color: #ffffff;
+    margin-top: 4vh;
+
+}
+.ic{
+   padding-left: 5px;
+   font-size:4vh ;
+}
+/*ended*/
+/* 9th section */
+.one{
+   background-color: #1f1f1f;
+   height: 130vh;
+   margin: 0%;
+   margin-top: -10vh;
+}
+.two{
+   font-size: 6vh;
+  text-align: center;
+   color: #c5a47e;
+   padding-top: 6vh;
+}
+.half{
+   font-size: medium;
+   text-align: center;
+   color: #ababab;
+}
+.sridhar{
+   width: 100%;
+   display:flex ;
+
+   margin-top: 10vh;
+
+
+}
+.sarvesh{
+   width: 33.3%;
+   margin-right: 3px;
+   margin-right: 2cm;
+   padding-left: 8vh;
+}
+.muruga{
+   width: 33.3%;
+   padding-right: 50px;
+   margin-right: 4vh;
+}
+.siva{
+   width: 33.3%;
+}
+.maruthi{
+   font-size: large;
+   color: #c5a47e;
+   padding-top: 10px;
+}
+.ganesh{
+   font-size: medium;
+   color: #ababab;
+   margin-top: 6vh;
+
+   }
+
+  .deva{
+   font-size: small;
+   color: #707070;
+
+   margin-top: 7vh;
+  }
+  .nine{
+   margin-top: 7vh;
+  }
+  .eight{
+   margin-top: 7vh;
+  }
+  /*ended*/
+
+  /* 10 th section */
+
+  .google{
+   font-size: 6vh;
+   text-align: center;
+   color: #c5a47e;
+  }
+  .vivo{
+   background-color: #272727;
+   margin-top: -10vh;
+  }
+  .poco{
+width: 100%;
+display: flex;
+margin-top: 20vh;
+margin-left: 20vh;
+  }
+
+  .pixel{
+   width: 33.3%;
+  }
+  .sam{
+   width: 33.3%;
+  }
+  .mi{
+   width: 33.3%;
+  }
+  .tvk{
+   color: #c5a47e;
+   font-size: 7vh;
+   padding-left: 9vh;
+  }
+  .tea{
+   color: #ababab;
+   font-size: larger;
+  }
+  .magic{
+   width: 100%;
+   display: flex;
+   padding-left: 10vh;
+   margin-top: 10vh;
+  }
+  .vijay{
+   width: 50%;
+  }
+  .ajith{
+   width: 50%;
+  }
+  .nothing{
+   width: 70vh;
+   height:50px;
+  }
+  .wanted{
+   width: 70vh;
+   height: 100px;
+  }
+  .karthi{
+   height: 40px;
+   background-color: gray;
+   text-decoration: none;
+   color: #c5a47e;
+  }
+  .karthi a:hover{
+   color: #fff;
+   text-decoration: underline;
+  }
+  .karthi a{
+   color: #c5a47e;
+  }
+  /*ended*/
+
+  /* 11 th section */
+.hanu{
+   background-color: #1f1f1f;
+}
+.oreo{
+   width: 99.9%;
+   display: flex;
+   margin-left: 10vh;
+}
+.jim{
+   width: 33.3%;
+   padding-top: 30px;
+
+
+
+}
+.jam{
+   width: 33.3%;
+   color:#707070 ;
+   font-size: small;
+   padding-top: 30px;
+   padding-left: 20px;
+}
+.crunch{
+   width: 33.3%;
+  padding-left: 40vh;
+}
+.dmk{
+   color: #c5a47e;
+   font-size: 3vh;
+
+   margin-top: 5vh;
+   margin-left: 3vh;
+}
