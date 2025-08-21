@@ -1,0 +1,155 @@
+
+/* section 1*/
+.one{
+background-image:url(dmk.png);
+background-repeat: no-repeat;
+background-size: 2200px;
+width: 100%;
+height: 550px;   
+}
+
+.one{
+padding-top: 20vh;
+padding-left: 50px;   
+}
+.god{
+font-size: 5vh;    
+}
+.evil{
+color: red;
+padding-top: 10px;
+padding-bottom: 10px;    
+}
+.angel{
+padding-top: 10px;    
+}
+.ji{
+padding-left: 2.5cm;
+margin-top: -1.3cm;   
+}
+.hii{
+padding-top: 10px;    
+}
+.left{
+padding-left: 3cm;
+
+margin-top: -1cm;  
+}
+.right{
+padding-top: 60px;    
+}
+   
+/*ended*/
+/* section 2 */
+.two{
+background-image:url(king2.png);
+background-repeat: no-repeat;
+background-size: 1800px;
+width: 100%;
+height: 700px;  
+}
+
+.two{
+padding-top: 15vh;
+padding-left: 50px;   
+}
+.god{
+font-size: 5vh;    
+}
+.evil{
+color: red;
+padding-top: 10px;
+padding-bottom: 10px;    
+}
+.angel{
+padding-top: 10px;    
+}
+.ji{
+padding-left: 2.5cm;
+margin-top: -1.3cm;   
+}
+.hii{
+padding-top: 10px;    
+}
+.left{
+padding-left: 3cm;
+
+margin-top: -1cm;  
+}
+.right{
+padding-top:.5cm;    
+}
+
+/* ended */
+/* section 3 */
+
+.three{
+background-image:url(king3.png);
+background-repeat: no-repeat;
+background-size: 1900px;
+width: 100%;
+height: 700px;  
+}
+
+.three{
+padding-top: 15vh;
+padding-left: 50px; 
+margin-top:-22vh; 
+}
+.god{
+font-size: 5vh;    
+}
+.evil{
+color: red;
+padding-top: 10px; 
+
+padding-bottom: 10px;    
+}
+.angel{
+padding-top: 10px;    
+}
+.ji{
+padding-left: 2.5cm;
+margin-top: -1.3cm;   
+}
+.hii{
+padding-top: 10px;    
+}
+.left{
+padding-left: 3cm;
+
+margin-top: -1cm;  
+}
+.right{
+padding-top:.5cm;    
+}
+
+/* ended */
+/* section 4 */
+.four{
+width: 100%;
+display: flex;
+}
+.four{
+background-color: black;
+margin-top: -15vh;    
+}
+.ink{
+width: 50%;
+padding-right: 50px;   
+}
+.gii{
+width: 50%; 
+padding-left: 30px;   
+}
+.mi{
+color: red;    
+}
+.rod{
+text-align: center;
+margin-top: 30px;   
+}
+.tod{
+text-align: center; 
+margin-top: 30px;    
+}
